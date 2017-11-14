@@ -18,4 +18,4 @@ The ways to create new blocks depends on the **Proof of** concept blockchain is 
   <img alt="Mathematical Riddle" src="https://github.com/marcosrachid/blockchain-definition/blob/master/public/equation.svg" />
 </div>
 
-The below equation is a polynomial equation, that mean x can be n numbers, the riddle is to find a one of these numbers to create a block within the network consensus.
+The above equation is a polynomial equation, that mean x can be n different numbers (if assume that there is no repeated number), the riddle is to find a one of these numbers to create a block within the network consensus.
