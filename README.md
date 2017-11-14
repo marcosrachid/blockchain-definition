@@ -3,7 +3,7 @@
 ## Structure
 
 <div align="center" style="float: left">
-  <img alt="Blockchain Strucutre" width="250" src="https://github.com/marcosrachid/blockchain-definition/blob/master/public/Blockchain_Structure.png" />
+  <img alt="Blockchain Strucutre" width="250" src="https://github.com/marcosrachid/blockchain-definition/blob/master/public/blockchain_structure.png" />
 </div>
 
 * Block 0: Genesis block, configurable by genesis.json file
