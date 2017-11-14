@@ -1,6 +1,6 @@
 # Blockchain Documentation
 
-A blockchain technology overview summary
+A blockchain technology overview
 
 ## Content
 
