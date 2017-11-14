@@ -1,9 +1,9 @@
 # Blockchain Documentation
 
-* [1. Structure](#structure)
-* [2. Keys](#keys)
-* [3. Where is blockchain ?](#where-is-blockchain-)
-* [4. "Proof of" concepts](#proof-of-concepts)
+* [1. Structure](#1-structure)
+* [2. Keys](#2-keys)
+* [3. Where is blockchain ?](#3-where-is-blockchain-)
+* [4. "Proof of" concepts](#4-proof-of-concepts)
 
 ## 1. Structure
 
