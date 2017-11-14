@@ -57,4 +57,4 @@ There are three existing concepts till now:
 
 * **Proof of Stake**(PoS): You need to put tokens where you stake to mine/forge blocks.
 
-* **Delegated Proof of Stake**(DPoS): The stake is voted on fair and democratic way or randonly choose between the stakeholders with high stake quantity, then the stakeholder is allowed to mine/forge new blocks.
+* **Delegated Proof of Stake**(DPoS): The stake is voted on fair and democratic way or randonly chosen between the stakeholders with high stake quantity, then the stakeholder is allowed to mine/forge new blocks.
