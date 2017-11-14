@@ -23,7 +23,7 @@ The ways to create new blocks depends on the **Proof of** concept blockchain is 
   <img alt="Mathematical Riddle" src="https://github.com/marcosrachid/blockchain-definition/blob/master/public/equation.svg" />
 </div>
 
-The above equation is a polynomial equation, that mean x can be n different numbers (if assume that the equation has no repeated number), the riddle is to find a one of these numbers to create a block within the network consensus. It's a hard riddle to solve, but an easy riddle to validate.
+The above equation is a polynomial equation, that mean x can be n different numbers (if assume that the equation has no repeated number), the riddle is to find one of these numbers to create a block within the network consensus. It's a hard riddle to solve, but an easy riddle to validate.
 
 The new block will be created and signed to the solver's **Private Key**
 
@@ -34,6 +34,8 @@ There are two types of keys in the Blockchain environment:
 * **Private Key**: Is a cryptographic hash used to sign transactions on blockchain. As the name says it's private to only the owner knowledge, if the owner loses the private key, he will lose access to tokens and smart contracts.
 
 * **Public key**: Derived from the private key and is used to verify transactions, a public key cannot return a private key.
+
+**EXTRA**:
 
 * **Adresses**: Dereived from public key, represents your wallet address containing your tokens.
 
