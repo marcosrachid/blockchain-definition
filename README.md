@@ -1,9 +1,13 @@
 # Blockchain Documentation
 
-* [1. Structure](#1-structure)
-* [2. Keys](#2-keys)
-* [3. Where is blockchain ?](#3-where-is-blockchain-)
-* [4. "Proof of" concepts](#4-proof-of-concepts)
+A blockchain technology overview summary
+
+## Content
+
+[1. Structure](#1-structure)
+[2. Keys](#2-keys)
+[3. Where is blockchain ?](#3-where-is-blockchain-)
+[4. "Proof of" concepts](#4-proof-of-concepts)
 
 ## 1. Structure
 
@@ -51,6 +55,6 @@ There are three existing concepts till now:
 
 * **Proof of Work**(PoW): Need to put a lot of effort to mine new blocks (eletricity, power and money), the currently problem is that sacrificies a lot of network making a slow environment. (3-10 transactions/s)
 
-* **Proof of Stake**(PoS): You need to put ether where you stake to mine/forge blocks.
+* **Proof of Stake**(PoS): You need to put tokens where you stake to mine/forge blocks.
 
-* **Delegated Proof of Stake**(DPoS): The stake is voted on fair and democratic way, then the staker is allowed to mine/forge new blocks.
+* **Delegated Proof of Stake**(DPoS): The stake is voted on fair and democratic way or randonly choose between the stakeholders with high stake quantity, then the stakeholder is allowed to mine/forge new blocks.
