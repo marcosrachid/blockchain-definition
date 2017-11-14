@@ -35,7 +35,7 @@ There are two types of keys in the Blockchain environment:
 
 * **Public key**: Derived from the private key and is used to verify transactions, a public key cannot return a private key.
 
-**EXTRA**:
+###EXTRA
 
 * **Adresses**: Dereived from public key, represents your wallet address containing your tokens.
 
