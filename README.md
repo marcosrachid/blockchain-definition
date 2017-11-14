@@ -1,6 +1,11 @@
 # Blockchain Documentation
 
-## Structure
+* [1. Structure](#structure)
+* [2. Keys](#keys)
+* [3. Where is blockchain ?](#where-is-blockchain-)
+* [4. "Proof of" concepts](#proof-of-concepts)
+
+## 1. Structure
 
 <div align="center" style="float: left">
   <img alt="Blockchain Strucutre" width="250" src="https://github.com/marcosrachid/blockchain-definition/blob/master/public/Blockchain_Structure.png" />
@@ -22,7 +27,7 @@ The above equation is a polynomial equation, that mean x can be n different numb
 
 The new block will be created and signed to the solver's **Private Key**
 
-## Keys
+## 2. Keys
 
 There are two types of keys in the Blockchain environment:
 
@@ -32,13 +37,13 @@ There are two types of keys in the Blockchain environment:
 
 * **Adresses**: Dereived from public key, represents your wallet address containing your tokens.
 
-## Where is blockchain ?
+## 3. Where is blockchain ?
 
 Blockchain is a massive distributed database, saved in every computer, so from now on, you are responsible for holding your account (private key) and your own token.
 
 The blockchain are accessible from clients like **GoEthereum**, **Paraity**, **Ethereum++** and others, starting a client, it begins to download the whole blockchain to your computer. In resume, there is no server side storage.
 
-## "Proof of" concepts
+## 4. "Proof of" concepts
 
 There are three existing concepts till now:
 
