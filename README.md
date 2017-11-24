@@ -35,10 +35,6 @@ There are two types of keys in the Blockchain environment:
 
 * **Public key**: Derived from the private key and is used to verify transactions, a public key cannot return a private key.
 
-### EXTRA
-
-* **Adresses**: Dereived from public key, represents your wallet address containing your tokens.
-
 ## 3. Where is blockchain ?
 
 Blockchain is a massive distributed database, saved in every computer, so from now on, you are responsible for holding your account (private key) and your own token.
@@ -51,6 +47,10 @@ There are three existing concepts till now:
 
 * **Proof of Work**(PoW): Need to put a lot of effort to mine new blocks (eletricity, power and money), the currently problem is that sacrificies a lot of network making a slow environment. (3-10 transactions/s)
 
-* **Proof of Stake**(PoS): You need to put ether where you stake to mine/forge blocks.
+* **Proof of Stake**(PoS): You need to put tokens where you stake to mine/forge blocks.
 
 * **Delegated Proof of Stake**(DPoS): The stake is voted on fair and democratic way, then the staker is allowed to mine/forge new blocks.
+
+## 5. Nodes
+
+A blockchain node implements the a currency protocol, interconnects between other nodes throught the protocol and has the responsability to give access to the blockchain besides other things like mining. Also we have the full nodes that downloads the whole chain.
