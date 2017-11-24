@@ -9,6 +9,7 @@ A blockchain technology overview
 3. [Where is blockchain ?](#3-where-is-blockchain-)
 4. ["Proof of" concepts](#4-proof-of-concepts)
 5. [Nodes](#5-nodes)
+6. [genesis.json file](#6-genesis.json-file)
 
 ## 1. Structure
 
@@ -59,3 +60,17 @@ There are three existing concepts till now:
 ## 5. Nodes
 
 A blockchain node implements the a currency protocol, interconnects between other nodes throught the protocol and has the responsability to give access to the blockchain besides other things like mining. Also we have the full nodes that downloads the whole chain.
+
+## 6. genesis.json file
+
+It's the configuration file that comes with the first block. Here is some configurable options:
+
+* **coinbase**: not required, defines where mining goes to when you have this account.
+
+* **difficulty**: how difficult it is to mine a block
+
+* **gasLimit**: upper limit to pay gas to miners on transactions
+
+* **timestamp**: timestamp the block was generetad (Starting at 1970-01-01)
+
+* **alloc**: add token to preallocated accounts
