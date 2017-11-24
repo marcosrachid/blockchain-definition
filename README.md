@@ -1,9 +1,14 @@
 # Blockchain Documentation
 
-* [1. Structure](#1-structure)
-* [2. Keys](#2-keys)
-* [3. Where is blockchain ?](#3-where-is-blockchain-)
-* [4. "Proof of" concepts](#4-proof-of-concepts)
+A blockchain technology overview
+
+## Content
+
+1. [Structure](#1-structure)
+2. [Keys](#2-keys)
+3. [Where is blockchain ?](#3-where-is-blockchain-)
+4. ["Proof of" concepts](#4-proof-of-concepts)
+5. [Nodes](#5-nodes)
 
 ## 1. Structure
 
@@ -49,7 +54,7 @@ There are three existing concepts till now:
 
 * **Proof of Stake**(PoS): You need to put tokens where you stake to mine/forge blocks.
 
-* **Delegated Proof of Stake**(DPoS): The stake is voted on fair and democratic way, then the staker is allowed to mine/forge new blocks.
+* **Delegated Proof of Stake**(DPoS): The stake is voted on fair and democratic way or randonly chosen between the stakeholders with high stake quantity, then the stakeholder is allowed to mine/forge new blocks.
 
 ## 5. Nodes
 
